@@ -14,3 +14,4 @@ This is a simple client-server chat application implemented in Java using AWT an
 ## How to Run
 First run ServerSide.java and then run Client.java.
 This would work perfectly
+![image](https://github.com/Siva0910/chatApp_using_java.net-awt/assets/95603330/15b64518-e752-42a2-ba4e-3dfcad69e0a5)
